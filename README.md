@@ -1,4 +1,4 @@
-# 🏫 IES Doctor Faustí Barberà — 2.º SMX
+# 🏫 IES Doctor Faustí Barberà — 2.º SMX 
 
 ## 📚 Repositorio de clase
 
