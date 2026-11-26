@@ -5,7 +5,7 @@
 Este repositorio reúne **apuntes, actividades, prácticas y materiales** de *2.º de CFGM Sistemas Microinformáticos y Redes (SMX)* del IES Doctor Faustí Barberà, durante el **curso 2026–2027**.
 
 > «Aprender, practicar y compartir: cada módulo es una oportunidad para seguir mejorando».
-
+ 
 ### 🏫 Fotografía del centro
 
 ![Fotografía del IES Doctor Faustí Barberà](imagenes/foto-centro.jpg)
