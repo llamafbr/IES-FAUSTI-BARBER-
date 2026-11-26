@@ -6,11 +6,11 @@ Este repositorio reúne **apuntes, actividades, prácticas y materiales** de *2.
 
 > «Aprender, practicar y compartir: cada módulo es una oportunidad para seguir mejorando».
 
-### 🖼️ Imagen del centro
+### 🏫 Fotografía del centro
 
-![Imagen del centro](G5I5K.jpg)
+![Fotografía del IES Doctor Faustí Barberà](imagenes/foto-centro.jpg)
 
-*Imagen conservada del repositorio original. No se ha verificado que sea el logotipo oficial.*
+*Fotografía del edificio del IES Doctor Faustí Barberà.*
 
 ## 🗂️ Módulos
 
